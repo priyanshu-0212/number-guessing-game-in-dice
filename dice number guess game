@@ -15,3 +15,4 @@ while f=="y":
         print("you lost sorry")
     f=input("do you want to play more y/n: ")
 print("your total score is",a)
+#you should have provided more comments.
